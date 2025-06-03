@@ -1,0 +1,3 @@
+day1 主要两个工具 一个是LCEL 以及管理聊天记录，聊天记录的父类是BaseChatMessagehistory
+LCEL是LangChain的一个重要串联器，通过他可以把各个组件灵活组装到一起
+复习流程 1，多模型调用 2 prompt工程 3 LCEL 4 消息存储
