@@ -29,9 +29,9 @@ runnable = RunnableWithMessageHistory(
 #清除记录
 history.clear()
 
-a = runnable.invoke({"question": "你好，你是谁"})
-print(a)
-a2 = runnable.invoke({"question": "重复一次"})
-print(a2)
-a2 = runnable.invoke({"question": "目前我们的对话有多少条？"})
-print(a2)
+# a = runnable.invoke({"question": "你好，你是谁"})
+# print(a)
+# a2 = runnable.invoke({"question": "重复一次"})
+# print(a2)
+# a2 = runnable.invoke({"question": "目前我们的对话有多少条？"})
+# print(a2)
